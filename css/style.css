@@ -1,0 +1,53 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Phudu:wght@400;700&display=swap');
+
+body {
+    padding: 0;
+    font-family: 'Phudu', cursive;
+}
+
+.contain {
+    width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+    background: aqua;
+    padding: 70px 0;
+}
+.contain h1 {
+    font-size: 68px;
+    font-weight: 700;
+}
+.contain h2 {
+    font-size: 34px;
+    font-weight: 700;
+}
+.contain h2 span {
+    font-size: 34px;
+    font-weight: 700;
+    color: red;
+}
+.contain p {
+    font-size: 20px;
+    font-weight: 400;
+}
+.contain #point {
+    font-size: 28px;
+    font-weight: 400;
+    background: transparent;
+    border-radius: 30px;
+    text-align: center;
+}
+.contain #print {
+    font-size: 28px;
+    font-weight: 400;
+    color: blueviolet;
+}
+
+.contain button {
+	font-size: 28px;
+	font-weight: 400;
+	background: transparent;
+	border-radius: 30px;
+}
+
